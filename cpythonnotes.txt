@@ -2,3 +2,22 @@ MTD COMPETTITVE PROGRAMMING TRAINING
 DAY1 THURSDAY 06/03/2025
 IMPORTANT GITCOMMANDS
 
+crud operations
+
+arithmethic operators: +,-,*,/,%
+all the binary operators 
+i/p are numbers
+o/p is numbersto perform any arthmethic operation, data type of the both he operations must be same 
+left to rightw.r.t to reading thr values/expressions
+the calculation to happens the user/programmer given  infix expression must be converted to postfix
+infix notation-> 5+6 
+the operators have different hierarchy(precedence)
+_-------------------------------------------------
+
+relational operators : > < == != >=  <=
+---------------------
+logical operaators: & && | || !
+
+Avergaescore -pascal case
+average_score - snake case
+averageScore - camel case
