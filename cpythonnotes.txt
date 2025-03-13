@@ -21,3 +21,8 @@ logical operaators: & && | || !
 Avergaescore -pascal case
 average_score - snake case
 averageScore - camel case
+
+-E preproccsesor
+-c compile 
+-S assembly
+gcc -cp1.c -o even_odd.o  change the name of the object file

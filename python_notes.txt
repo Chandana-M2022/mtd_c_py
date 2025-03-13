@@ -1,0 +1,21 @@
+>code .
+
+D:\chandana_learning\mtd_c_py\day4>node --version
+v22.14.0
+
+D:\chandana_learning\mtd_c_py\day4>python --version
+Python 3.13.2
+
+D:\chandana_learning\mtd_c_py\day4>npm --version
+10.9.2
+
+D:\chandana_learning\mtd_c_py\day4>pip --version
+pip 24.3.1 from C:\Users\Student\AppData\Local\Programs\Python\Python313\Lib\site-packages\pip (python 3.13)
+
+D:\chandana_learning\mtd_c_py\day4>
+input function always give the string 
+there is no implicit typecasting in python
+ find it the substring is not found it returns -1
+ index if the substring is not found it rises ValueError and stops executions 
+ if want to use exception handling or try and except block and put it under it and then it executes other statements 
+ 
