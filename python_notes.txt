@@ -50,3 +50,7 @@ the data which is the data of the data is called meta data
 
 desc persons;
 //this query gives information about meta data
+
+
+
+>python -m pdb p1.py for using python debugging tool
