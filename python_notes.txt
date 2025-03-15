@@ -18,4 +18,35 @@ there is no implicit typecasting in python
  find it the substring is not found it returns -1
  index if the substring is not found it rises ValueError and stops executions 
  if want to use exception handling or try and except block and put it under it and then it executes other statements 
+ -------------------------------------------------------------------------------------------------------------------
  
+ step1: read a string
+ step2: capture only the digits
+ remove the duplicate digits
+ form the biggest possible numbers using unit digits
+ 
+ 1z0829
+ pythoninsitute.org
+ java script certification linux foundation
+ nptel courses
+ cdac
+ 
+ steps to download mysql
+ g search :downloadmy sql
+ link: https://www.mysql.com/downloads/
+ scroll down :mySql community (gpl) downloads 
+ choose setup type full and then proceed as further
+ 
+ QUERIES
+select database();
+it lists the current db
+
+show datbases
+show list of databases
+
+
+in mysql datbases  tinyint, smallint, int,  bigint
+the data which is the data of the data is called meta data
+
+desc persons;
+//this query gives information about meta data
